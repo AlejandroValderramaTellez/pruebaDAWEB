@@ -1,0 +1,10 @@
+#cabecera {
+	font-weight: bold;
+	background-color: blue;
+	color: white;
+}
+
+tr {
+	background-color: #0099ff;
+	text-align: center;
+}
